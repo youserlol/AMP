@@ -1,7 +1,7 @@
 import turtle
 
 #apple
-
+#red
 t = turtle.Turtle()
 
 t.fillcolor("red")
