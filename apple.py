@@ -1,12 +1,12 @@
 
-# 으잉 모르겠다
+# 으잉 모르겠다 
 
 import turtle
 
 t = turtle.Turtle()
 
-t.pensize(10)
-t.fillcolor("black")
+t.pensize(4)
+t.fillcolor("red")
 
 t.begin_fill()
 
@@ -25,5 +25,3 @@ t.hideturtle()
 
 turtle.exitonclick()
 
-
-# 충돌 수정, 주석 처리로 해보겠습니다. 
