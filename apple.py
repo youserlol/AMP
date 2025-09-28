@@ -16,7 +16,7 @@ t.left(60)
 t.forward(80)
 t.left(120)
 t.forward(80)
-t.left(120)
+t.left(100)
 t.forward(80)
 
 t.end_fill()
@@ -25,3 +25,5 @@ t.hideturtle()
 
 turtle.exitonclick()
 
+
+# 충돌 수정, 주석 처리로 해보겠습니다. 
